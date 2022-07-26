@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body{
+    font-size: 18px;
+}
+h1{
+    text-align: center;
+    margin: 10px;
+}
+div{
+    border: 2px solid black;
+    width: 35%;
+    margin: 0 auto;
+    padding: 15px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.blue{
+    background-color: lightblue;
+}
+a{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
